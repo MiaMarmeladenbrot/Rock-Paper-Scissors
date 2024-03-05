@@ -61,17 +61,23 @@ p {
   color: white;
 }
 
-a {
+.restart {
   text-decoration: none;
   color: black;
   background-color: rgb(247, 247, 247);
   padding: 20px;
   border-radius: 10px;
-  display: inline-block;
+  /* display: inline-block; */
   margin-bottom: 30px;
+
+  display: none;
 }
 
-/*! Media Queries Tablet */
+.show {
+  display: inline-block;
+}
+
+/* # Media Queries Tablet */
 @media only screen and (max-width: 768px) {
   img {
     width: 10rem;
@@ -90,7 +96,7 @@ a {
   }
 }
 
-/*! Media Queries Mobile */
+/* # Media Queries Mobile */
 @media only screen and (max-width: 567px) {
   h2 {
     margin-bottom: 20px;

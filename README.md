@@ -12,22 +12,26 @@ https://miamarmeladenbrot.github.io/Rock-Paper-Scissors/
 
 #### Startpage
 
-![](./assets/img/screenshots/Bildschirmfoto%202024-03-05%20um%2017.34.16.png)
+![](./assets/img/screenshots/desktop1.png)
 
 #### Points and Rounds
 
-![](./assets/img/screenshots/Bildschirmfoto%202024-03-05%20um%2017.34.50.png)
+![](./assets/img/screenshots/desktop2.png)
 
 #### End of Game - final winner/loser
 
-![](./assets/img/screenshots/Bildschirmfoto%202024-03-05%20um%2017.35.00.png)
+![](./assets/img/screenshots/desktop3.png)
 
 ### Mobile Version
 
 #### Startpage
 
-![](./assets/img/screenshots/Bildschirmfoto%202024-03-05%20um%2017.34.32.png)
+![](./assets/img/screenshots/mobile1.png)
 
 #### Rounds and Points
 
-![](./assets/img/screenshots/Bildschirmfoto%202024-03-05%20um%2017.34.39.png)
+![](./assets/img/screenshots/mobile2.png)
+
+#### End of Game - final winner/loser
+
+![](./assets/img/screenshots/mobile3.png)

@@ -1,6 +1,8 @@
-//# 4. Lösung mit Spielstand-Anzeige
+// ! To Dos
+// - onClick stoppen, sobald einer 5 Punkte erreicht hat
 
 //! Output-Felder:
+const restartBtn = document.querySelector(".restart");
 const youChooseOutput = document.querySelector(".you-choose");
 const CPUChooseOutput = document.querySelector(".CPU-chooses");
 const resultOutput = document.querySelector(".result");
@@ -19,6 +21,9 @@ let rounds = 0;
 
 //! Funktion, um Spiel zu starten:
 const play = (playerChoice) => {
+  // restart-Button anzeigen:
+  restartBtn.classList.add("show");
+
   // Zufallswahl des Computers:
   const computerChoice = choices[Math.floor(Math.random() * 3)];
 
